@@ -2,7 +2,7 @@
 
 # Mahyoub Hakeem
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFA5&center=true&vCenter=true&width=500&lines=Software+Developer;Business+Systems+%26+Web+Applications;Laravel+%7C+PHP+%7C+Database+Solutions" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFA5&center=true&vCenter=true&width=500&lines=Software+Developer;Business+Systems+%26+Web+Applications;Laravel+%26+Backend+Development" alt="Typing Animation" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahyobhakeem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
@@ -13,41 +13,29 @@
 
 ## About Me 👨‍💻
 
-I build software solutions that support business operations, improve workflow efficiency, and solve practical problems using modern technologies.
+I build software solutions that support business operations, improve workflow efficiency, and solve practical problems with modern technologies.
 
-My background in Management Information Systems (MIS) combines business understanding with software development, database design, and system analysis to deliver useful and reliable digital solutions.
+My background in Management Information Systems (MIS) combines business understanding with software development, database design, and system analysis to deliver reliable and useful digital solutions.
 
 - 🏢 Business systems and operational workflows
-- 🌐 Web applications and responsive interfaces
-- 🗃️ Database design and application data management
-- 📊 System analysis and requirement transformation into software
+- 🌐 Web applications and responsive user interfaces
+- 🗃️ Database design and data management
+- 📊 System analysis and requirement transformation
 - 💡 User-focused solutions for real business needs
 
 ---
 
-## Featured Projects 🚀
+## Selected Work 🚀
 
-### MizanFlow
-A production-grade Inventory & Sales Management System built with Laravel, focused on inventory management, sales, purchasing, POS operations, and financial accuracy.
+I work on practical systems and business-focused applications, with emphasis on:
 
-- Inventory & sales management
-- Purchase workflows
-- Point-of-sale operations
-- Financial precision and robust data handling
-- Automated testing
-- Modern RTL-ready interface
+- Inventory and sales management
+- Purchase and POS workflows
+- Business process automation
+- Data-driven dashboards and reporting
+- Web applications for operational efficiency
 
-Repository: [mahyobhakeem/MizanFlow](https://github.com/mahyobhakeem/MizanFlow)
-
-### filepo
-A Telegram bot project focused on report and file management workflows.
-
-Repository: [mahyobhakeem/filepo](https://github.com/mahyobhakeem/filepo)
-
-### DeepSeek-Coder
-A repository showcasing development work and experimentation with AI-assisted coding workflows.
-
-Repository: [mahyobhakeem/DeepSeek-Coder](https://github.com/mahyobhakeem/DeepSeek-Coder)
+This profile reflects my work in software development, business systems, and application design.
 
 ---
 
